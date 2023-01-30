@@ -29,28 +29,28 @@
     height: 100px;
 }
 
-#up .col-6 .main-content{
+#up .col-9 .main-content{
     margin-top: 10px;
     background-color: rgb(47, 209, 69);
-    width: 100%;
+    width: 97%;
     height: 300px;
 }
 
-#up .col-6 .main-content p{
+#up .col-9 .main-content p{
     color: white;
     font-size: 40px;
     text-align: center;
     padding-top: 125px;
 }
 
-#up .col-6 .sidebar{
+#up .col-3 .sidebar{
     margin-top: 10px;
     background-color: rgb(223, 21, 230);
-    width: 95%;
+    width: 90%;
     height: 300px;
 }
 
-#up .col-6 .sidebar p{
+#up .col-3 .sidebar p{
     color: white;
     font-size: 40px;
     text-align: center;
